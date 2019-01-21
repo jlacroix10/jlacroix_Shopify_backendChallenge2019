@@ -1,0 +1,15 @@
+{
+  "name": "jlacroix_shopify_backendchallenge",
+  "version": "1.0.0",
+  "description": "Allows to purchase and view items of an online shop.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-François Lacroix",
+  "license": "ISC"
+}
